@@ -1,0 +1,6 @@
+map.txt    49
+
+map1.txt    0
+
+map2.txt    49
+	   0
